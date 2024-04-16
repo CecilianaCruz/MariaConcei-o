@@ -1036,7 +1036,7 @@
   
   .u-section-5 .u-image-1 {
     min-height: 523px;
-    background-image: url("images/imgterap.jpg");
+    background-image: url("images/terap.jpg");
     background-position: 50% 50%;
   }
   
@@ -1504,6 +1504,17 @@
       margin-bottom: 19px;
     }
   }
+
+  .accordion-button{
+    background-color: rgb(148, 192, 109)!important;
+    color: white!important;
+  }
+
+  .accordion-button:hover{
+    background-color: rgb(47, 129, 47)!important;
+    color: aliceblue!important;
+  }
+
   
   @media (max-width: 575px) {
     .u-section-7 .u-sheet-1 {
